@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600889091760",
+    "firebase_url": "https://moviles-wheels.firebaseio.com",
+    "project_id": "moviles-wheels",
+    "storage_bucket": "moviles-wheels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600889091760:android:91203db84b18bcfef57d75",
+        "android_client_info": {
+          "package_name": "com.example.ej"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600889091760-ne8mn86fm95qsr1b4gpaa36rbhih48db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBygRavBs1ESTm9-nu3v9mvD7oYMnrakhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600889091760-ne8mn86fm95qsr1b4gpaa36rbhih48db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
